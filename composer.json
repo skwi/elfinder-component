@@ -1,5 +1,5 @@
 {
-    "name": "skwi/elfinder-component",
+    "name": "skwi/elfinder",
     "type": "component",
     "description": "ElFinder FileManager",
     "keywords": ["elfinder","file manager"],
